@@ -93,7 +93,7 @@ async def result(message: types.Message, state: FSMContext):
         price = float(message.text)*wong_rub
         tax = get_tax(age, engine, power, capacity, str(int(price)))
         """ЗАТРАТЫ В КОРЕЕ"""
-        spending_in_korea = (1500 * usd) + (1500 * usd) * 0.03  # setting
+        spending_in_korea = (1500 * usd) * 1.03  # setting
         """КОМИССИЯ В РОССИИ"""
         kom_ru = 50000
         """ДОСТАВКА"""
