@@ -10,7 +10,7 @@
 
 /handkers/link_handler.py - для настройки варианта по ссылкам
 
-/handlers/link_handler - для настройки варианта с ручным вводом
+/handlers/price_handler - для настройки варианта с ручным вводом
 
 
 
