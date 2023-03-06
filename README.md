@@ -2,7 +2,7 @@
 
 Запуск бота осуществляется в файле bot.py
 
-Установка необходимых библиотек: pip install -r requirements
+Установка необходимых библиотек: pip install -r requirements.txt
 
 Токен бота хранится в .env BOT_TOKEN=ВашТокен
 
